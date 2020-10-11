@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url('http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900');
+
+.content-text {
+    font-size: 16px;
+    color: #979797;
+}
+
+.content-list {
+    color: #979797;
+}
+
+.content-list-item {
+    margin-bottom: 32px;
+}
+
+.content-list-item-num {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.content-list-item-title {
+    font-size: 18px;
+    font-weight: 500;
+    color: #979797;
+    display: block;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.content-list-item-desc {
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    color: #979797;
+    word-wrap: break-word;
+}
+
+.content-skill {
+    margin-bottom: 32px;
+}
+
+.content-skill-percent {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+    margin-right: 10px;
+}
+
+.content-skill-name {
+    font-size: 18px;
+    font-weight: 500;
+    color: #979797;
+    text-transform: uppercase;
+}
+
+.content-timeline {
+    margin-bottom: 35px;
+}
+
+.content-timeline-left {
+    font-family: 'Roboto';
+    line-height: 12px;
+}
+
+.content-timeline-time {
+    display: block;
+    color: #979899;
+    opacity: .6;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.content-timeline-title {
+    display: block;
+    color: #a4a5a6;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.content-timeline-subtitle {
+    display: block;
+    color: #a4a5a6;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.content-timeline-location {
+    display: block;
+    color: #979899;
+    opacity: .6;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.content-timeline-text {
+    color: #979899;
+    font-size: 14px;
+}
+
+.content-awards-line {
+    height: 5px;
+    background-color: #007bff;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+.content-awards-detail {
+    color: #979899
+}
